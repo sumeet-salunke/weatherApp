@@ -60,7 +60,7 @@ This project helped me practice:
 
 ## Live Demo
 
-[Add your GitHub Pages link here]
+[https://sumeet-salunke.github.io/weatherApp/]
 
 ## GitHub Repository
 
